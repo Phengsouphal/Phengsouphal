@@ -12,8 +12,9 @@
 <a href="https://www.linkedin.com/in/souphal-pheng-233449225">
   <img align="left" alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <img align='right' src="https://github.com/Phengsouphal/Phengsouphal/blob/master/PHENG_SOUPHAL.JPG" width="150">
+
+[Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
