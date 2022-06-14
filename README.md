@@ -1,4 +1,4 @@
-<h2> Hello, I'm Pheng Souphal/ផេង សូផង! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"></h2>
+<h2> Hello, I'm Pheng Souphal / ផេង សូផល ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"></h2>
 
 <a href="https://www.linkedin.com/in/souphal-pheng-233449225/">
   <img align="left" alt="Abhishek's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
