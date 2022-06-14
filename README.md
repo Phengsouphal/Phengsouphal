@@ -60,7 +60,6 @@
   <p>
 - <b>Frontend: </b>
   <p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" />
@@ -69,6 +68,12 @@
     <img alt="Ant Design" src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" /> 
     <img alt="Material_Design" src="https://img.shields.io/badge/-materialdesign-757575?style=flat-square&logo=materialdesign&logoColor=white" />
+  <p>
+- <b>Mobile: </b>
+  <p>
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=white" />
+    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />
   <p>
 
 - <b>State Management: </b>
@@ -91,10 +96,14 @@
   <p>
 - <b>Other: </b>
   <p>
-    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
-    <img alt="adobephotoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-    <img alt="adobexd" src="https://img.shields.io/badge/-XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" /> 
-    <img alt="adobeillustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" /> 
+    <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
+    <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />
+    <img alt="socketdotio" src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" /> 
+    <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" /> 
+    <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white" />
+    <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" />
+
   <p>
 
 ### 👨‍💻 Working Experiences
