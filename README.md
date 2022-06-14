@@ -8,6 +8,7 @@
 </a>
 <a href="https://www.linkedin.com/in/souphal-pheng-233449225">
   <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  The University Of Cambodia:
 </a>
 <a href="https://www.linkedin.com/in/souphal-pheng-233449225">
   <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -16,25 +17,13 @@
 
 [Profile](#) | [Education](#education) | [My Skill](#my-skill) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### 🧐 More About Me:
 
-```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled - Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-    coorganizer: "AfroPython",
-    speaker: "Latinity",
-    mentor: "EducaTRANSforma",
-  },
-  challenge:
-    "I am doing the #100DaysOfCode challenge focused on react and typescript",
-};
-```
+### 🎓 Education
 
-### Education
+### 👨‍💻 Working Experiences
+
+### 🎯 My Skill
 
 - <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
   </a> </b> - Phnom Penh<br>
