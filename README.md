@@ -15,7 +15,7 @@
 </a>
 <img align='right' src="https://github.com/Phengsouphal/Phengsouphal/blob/master/PHENG_SOUPHAL.JPG" width="100">
 
-[Profile](#) | [Education](#-education) | [My Skill](#-more-about-me) | [Working Experiences](#working-experiences) | [Language](#languages) | [Programming Language](#programming-language)
+[Profile](#) | [🎓 Education](#-education) | [🎯 My Skill](#-my-skill) | [👨‍💻 Working Experiences](#-working-experiences) | [🌐 Language](#-languages) | [🛠 Programming Language](##-programming-language)
 
 ### 🧐 More About Me:
 
@@ -45,7 +45,7 @@
     <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
     <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
 
-### 👨‍💻 Working Experiences
+### 🎯 My Skill
 
 - <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
   </a> </b> - Phnom Penh<br>
@@ -59,7 +59,7 @@
     <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
     <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
 
-### 🎯 My Skill
+### 👨‍💻 Working Experiences
 
 - <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
   </a> </b> - Phnom Penh<br>
