@@ -1,16 +1,16 @@
 <h2> Hello, I'm Pheng Souphal / ផេង សូផល ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40"></h2>
 
 <a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img align="left" alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/linkedin.png" />
+  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/linkedin.png" />
 </a>
 <a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img align="left" alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img align="left" alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img align="left" alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <img align='right' src="https://github.com/Phengsouphal/Phengsouphal/blob/master/PHENG_SOUPHAL.JPG" width="100">
 
