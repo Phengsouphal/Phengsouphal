@@ -4,10 +4,10 @@
   <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/linkedin.png" />
 </a>
 <a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/telegram.png" />
 </a>
 <a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/facebook.png" />
   The University Of Cambodia:
 </a>
 <a href="https://www.linkedin.com/in/souphal-pheng-233449225">
@@ -19,11 +19,61 @@
 
 ### 🧐 More About Me:
 
+- <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
+  </a> </b> - Phnom Penh<br>
+  <b>Major</b> - BA in Information Technology (2015-2019)
+
+- <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
+  </a> </b> - Phnom Penh<br>
+  <b>Major</b> - Web Application (8 hours/day , 5month)
+
+  - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
+    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
+    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
+
 ### 🎓 Education
+
+- <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
+  </a> </b> - Phnom Penh<br>
+  <b>Major</b> - BA in Information Technology (2015-2019)
+
+- <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
+  </a> </b> - Phnom Penh<br>
+  <b>Major</b> - Web Application (8 hours/day , 5month)
+
+  - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
+    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
+    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
 
 ### 👨‍💻 Working Experiences
 
+- <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
+  </a> </b> - Phnom Penh<br>
+  <b>Major</b> - BA in Information Technology (2015-2019)
+
+- <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
+  </a> </b> - Phnom Penh<br>
+  <b>Major</b> - Web Application (8 hours/day , 5month)
+
+  - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
+    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
+    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
+
 ### 🎯 My Skill
+
+- <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
+  </a> </b> - Phnom Penh<br>
+  <b>Major</b> - BA in Information Technology (2015-2019)
+
+- <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
+  </a> </b> - Phnom Penh<br>
+  <b>Major</b> - Web Application (8 hours/day , 5month)
+
+  - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
+    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
+    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
+
+### 🌐 Languages
 
 - <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
   </a> </b> - Phnom Penh<br>
