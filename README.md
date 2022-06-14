@@ -75,7 +75,25 @@
 - <b>State Management: </b>
   <p>
     <img alt="Redux-Saga" src="https://img.shields.io/badge/-reduxsaga-45b8d8?style=flat-square&logo=reduxsaga&logoColor=white" />
-    <img alt="Recoil" src="https://img.shields.io/badge/-Recoil-000000?style=flat-square&logo=recoil&logoColor=white" />
+    <img alt="Recoil" src="https://img.shields.io/badge/-Recoil-f52718?style=flat-square&logo=recoil&logoColor=white" />
+    <img alt="apollographql" src="https://img.shields.io/badge/-apollographql-311C87?style=flat-square&logo=apollographql&logoColor=white" /> 
+  <p>
+- <b>Tools Build Library: </b>
+  <p>
+    <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/-Npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <p>
+- <b>Tools Design: </b>
+  <p>
+    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+    <img alt="adobephotoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+    <img alt="adobexd" src="https://img.shields.io/badge/-XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" /> 
+    <img alt="adobeillustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-FF61F6?style=flat-square&logo=adobeillustrator&logoColor=white" /> 
+  <p>
+- <b>State Management: </b>
+  <p>
+    <img alt="Redux-Saga" src="https://img.shields.io/badge/-reduxsaga-45b8d8?style=flat-square&logo=reduxsaga&logoColor=white" />
+    <img alt="Recoil" src="https://img.shields.io/badge/-Recoil-f52718?style=flat-square&logo=recoil&logoColor=white" />
     <img alt="apollographql" src="https://img.shields.io/badge/-apollographql-311C87?style=flat-square&logo=apollographql&logoColor=white" /> 
   <p>
 
