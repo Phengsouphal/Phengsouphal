@@ -50,7 +50,9 @@
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/-Java-5496c4?style=flat-square&logo=java&logoColor=white" />
   <p>
+
 - <b>DB Management: </b>
   <p>
     <img alt="phpMyAdmin" src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white" />
@@ -64,14 +66,11 @@
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> 
     <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
-  <p>
-
-- <b>Frontend UI: </b>
-  <p>
     <img alt="Ant Design" src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" /> 
     <img alt="Material_Design" src="https://img.shields.io/badge/-materialdesign-757575?style=flat-square&logo=materialdesign&logoColor=white" />
   <p>
+
 - <b>State Management: </b>
   <p>
     <img alt="Redux-Saga" src="https://img.shields.io/badge/-reduxsaga-45b8d8?style=flat-square&logo=reduxsaga&logoColor=white" />
@@ -88,13 +87,14 @@
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
     <img alt="adobephotoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
     <img alt="adobexd" src="https://img.shields.io/badge/-XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" /> 
-    <img alt="adobeillustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-FF61F6?style=flat-square&logo=adobeillustrator&logoColor=white" /> 
+    <img alt="adobeillustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" /> 
   <p>
-- <b>State Management: </b>
+- <b>Other: </b>
   <p>
-    <img alt="Redux-Saga" src="https://img.shields.io/badge/-reduxsaga-45b8d8?style=flat-square&logo=reduxsaga&logoColor=white" />
-    <img alt="Recoil" src="https://img.shields.io/badge/-Recoil-f52718?style=flat-square&logo=recoil&logoColor=white" />
-    <img alt="apollographql" src="https://img.shields.io/badge/-apollographql-311C87?style=flat-square&logo=apollographql&logoColor=white" /> 
+    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+    <img alt="adobephotoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+    <img alt="adobexd" src="https://img.shields.io/badge/-XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" /> 
+    <img alt="adobeillustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" /> 
   <p>
 
 ### 👨‍💻 Working Experiences
