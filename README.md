@@ -49,6 +49,7 @@
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <p>
 - <b>DB Management: </b>
   <p>
@@ -62,24 +63,20 @@
     <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> 
+    <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
   <p>
+
 - <b>Frontend UI: </b>
   <p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> 
-    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-46a2f1?style=flat-square&logo=flutter&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Ant Design" src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=white" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white" /> 
+    <img alt="Material_Design" src="https://img.shields.io/badge/-materialdesign-757575?style=flat-square&logo=materialdesign&logoColor=white" />
   <p>
 - <b>State Management: </b>
   <p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> 
-    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-46a2f1?style=flat-square&logo=flutter&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Redux-Saga" src="https://img.shields.io/badge/-reduxsaga-45b8d8?style=flat-square&logo=reduxsaga&logoColor=white" />
+    <img alt="Recoil" src="https://img.shields.io/badge/-Recoil-000000?style=flat-square&logo=recoil&logoColor=white" />
+    <img alt="apollographql" src="https://img.shields.io/badge/-apollographql-311C87?style=flat-square&logo=apollographql&logoColor=white" /> 
   <p>
 
 ### 👨‍💻 Working Experiences
