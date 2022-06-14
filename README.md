@@ -1,9 +1,8 @@
 <h2> Hello, I'm Pheng Souphal / ផេង សូផល ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40"></h2>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height='5px'>
 <img align='right' src="https://github.com/Phengsouphal/Phengsouphal/blob/master/PHENG_SOUPHAL.JPG" width="100">
 
 [🧐 Profile](#) | [🎓 Education](#-education) | [🎯 My Skill](#-my-skill) | [👨‍💻 Working Experiences](#-working-experiences) | [🌐 Language](#-languages) | [📞 Contact me](#-contact-me)
-<img src="https://camo.githubusercontent.com/6b68754bfe9a1bc4abebfabc34d4701bae4fa96c73172f2788d6a4163b0ce38c/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" width="100%">
 
 ### 🧐 More About Me:
 
