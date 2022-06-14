@@ -1,21 +1,8 @@
 <h2> Hello, I'm Pheng Souphal / ផេង សូផល ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40"></h2>
 
-<a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/linkedin.png" />
-</a>
-<a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/telegram.png" />
-</a>
-<a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/facebook.png" />
-  The University Of Cambodia:
-</a>
-<a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 <img align='right' src="https://github.com/Phengsouphal/Phengsouphal/blob/master/PHENG_SOUPHAL.JPG" width="100">
 
-[🧐 Profile](#) | [🎓 Education](#-education) | [🎯 My Skill](#-my-skill) | [👨‍💻 Working Experiences](#-working-experiences) | [🌐 Language](#-languages) | [🛠 Programming Language](##-programming-language)
+[🧐 Profile](#) | [🎓 Education](#-education) | [🎯 My Skill](#-my-skill) | [👨‍💻 Working Experiences](#-working-experiences) | [🌐 Language](#-languages) | [📞 Contact me](##-programming-language)
 
 ### 🧐 More About Me:
 
@@ -125,6 +112,26 @@
 
 - <b>Khmer: Native Languager</b>
 - <b>English: Efficiency</b>
+
+### 🌐 Contact Me
+
+<div>
+  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/linkedin.png" />
+  <span style="">Works.</span>
+</div>
+
+<a href="https://www.linkedin.com/in/souphal-pheng-233449225">
+  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/linkedin.png" />
+</a>
+<a href="https://www.linkedin.com/in/souphal-pheng-233449225">
+  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/telegram.png" />
+</a>
+<a href="https://www.linkedin.com/in/souphal-pheng-233449225">
+  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/facebook.png" />
+</a>
+<a href="https://www.linkedin.com/in/souphal-pheng-233449225">
+  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
