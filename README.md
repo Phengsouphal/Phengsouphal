@@ -116,7 +116,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### 👨‍💻 Working Experiences
 
-- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > VTech CO.,LTD:
+- <b> <a target="_blank" href="https://www.linkedin.com/company/vtech-co-ltd/mycompany/" target="_blank" > VTech CO.,LTD:
   </a></b> <br>
   <b>Software Engineer </b> - September 2021 - Present
 
@@ -124,23 +124,19 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
   - Private Project (API and admin panel are confidential of company)
 
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">https://web.bloc.asia </a> - Delivery and Mall (Mobile App - ReactNative)
-    - <a target="_blank" href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
-    - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version open with phone)
-  - <b>Private Project</b> - 6 (Admin-Portal)
-
-- <b> <a target="_blank" href="https://github.com/rimsila/next-dev" target="_blank" > Next Dev Team:
+- <b> <a target="_blank" href="https://bi-kay.com/" target="_blank" > Bikay Company:
   </a></b> <br>
-  <b>React Library</b> 2020 - Present (maintenance)
+  <b>Mobile and Web developer</b> December 2019 - October 2012
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've worked for a year at Bikay company located in Phnom Penh. I've develop 2 mobile app, and 2 web application include backend.
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project with React library.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skills & Tools: HTML5, Javascript, Jquery, CSS3, Bootstrap4, Laravel, React, Firebase.</b>
 
-  - <b>Public Project Reference</b>
-    - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
-    - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
-    - <a target="_blank" href="https://github.com/rimsila/next-dev-template">next-dev-template</a>: React Ts boilerplate integrate with next library provide all common template and stater auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.
-    - <a target="_blank" href="https://github.com/rimsila/react-library-template-starter">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with Dumi .
+- <b>Public Project Reference</b>
+
+  - <a target="_blank" href="https://play.google.com/store/search?q=angkor+salad+app&c=apps">Angkor Salad App</a> - Farmer, Collector and Dealer can find each in this app and Farmer can know how to grow some vegetable base instruction. (ReactNative)
+  - <a target="_blank" href="https://play.google.com/store/search?q=waste+tracker&c=apps">Waste Tracker </a> You can find out information about garbage collection schedule, collection services,and best practices of waste disposal in select Cambodian cities. (ReactNative)
+  - <b>Private Project </b> - 2 Backend (Laravel with Firebase)
+  - <a target="_blank" href="https://github.com/rimsila/react-library-template-starter">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with Dumi .
 
 - <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
   </a></b> <br>
