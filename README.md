@@ -126,53 +126,24 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 - <b> <a target="_blank" href="https://bi-kay.com/" target="_blank" > Bikay Company:
   </a></b> <br>
-  <b>Mobile and Web developer</b> December 2019 - October 2012
+  <b>Mobile and Web developer</b> - December 2019 - October 2012<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've worked for a year at Bikay company located in Phnom Penh. I've develop 2 mobile app, and 2 web application include backend.
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skills & Tools: HTML5, Javascript, Jquery, CSS3, Bootstrap4, Laravel, React, Firebase.</b>
 
-- <b>Public Project Reference</b>
-
-  - <a target="_blank" href="https://play.google.com/store/search?q=angkor+salad+app&c=apps">Angkor Salad App</a> - Farmer, Collector and Dealer can find each in this app and Farmer can know how to grow some vegetable base instruction. (ReactNative)
-  - <a target="_blank" href="https://play.google.com/store/search?q=waste+tracker&c=apps">Waste Tracker </a> You can find out information about garbage collection schedule, collection services,and best practices of waste disposal in select Cambodian cities. (ReactNative)
-  - <b>Private Project </b> - 2 Backend (Laravel with Firebase)
-  - <a target="_blank" href="https://github.com/rimsila/react-library-template-starter">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with Dumi .
-
-- <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
-  </a></b> <br>
-  <b>React Developer</b> - February 2019 - August 2020 (1 year 7 months)
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript</b>
-
   - <b>Public Project Reference</b>
 
-    - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
-    - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
-    - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
-    - <a target="_blank" href="https://www.slash.co">https://www.slash.co </a> - slash web portfolio (Numjunk/Ejs/Bootstrap4)
-    - <a target="_blank" href="http://startupjungle.org">http://startupjungle.org </a> - slash event (Laravel/Bootstrap4)
-    - [Real Estate](http://dev.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate(processing) (React TS/ReduxSaga/Antd Design)
-    - [Real Estate simulator](http://symulator.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate simulator(processing) (React TS/Antd Design/context)
-    - [Covid19](http://covid19-containment-index.com.s3-website-ap-southeast-1.amazonaws.com/) - Covid19 Containment Index (React/Antd Design/Echart/context)
+    - <b><a target="_blank" href="https://play.google.com/store/search?q=angkor+salad+app&c=apps">Angkor Salad App</a></b> - Farmer, Collector and Dealer can find each in this app and Farmer can know how to grow some vegetable base instruction. (ReactNative)
+    - <b><a target="_blank" href="https://play.google.com/store/search?q=waste+tracker&c=apps">Waste Tracker </a></b> You can find out information about garbage collection schedule, collection services,and best practices of waste disposal in select Cambodian cities. (ReactNative)
+    - <b>Private Project </b> - 2 Backend (Laravel with Firebase)
 
-  - <b>Private Project</b> - 5 (Admin-Portal)
-
-<!-- * -----PlanB---->
-
-- <b> <a target="_blank" href="https://planb-cambodia.com" target="_blank"> PlanB Cambodia:
+- <b> <a target="_blank" href="https://www.linkedin.com/in/iota-asia-972b331a9/?originalSubdomain=kh" target="_blank" >Iota Asia:
   </a></b> <br>
-  <b>Web Designer</b> - Jan, 2017 - Jan, 2018 (1 year)
-  &nbsp;I've worked for a year at japanese company located in Phnom Penh. I've designed a layout and developed a beautiful user-friendly website, including optimized page speed following the
-  flow of business and UX/UI.<br/>
+  <b>Web Developer</b> - February 2018 - November 2019
 
-  <b>Skills & Tools:</b> HTML5, Javascript, Jquery, CSS3, SCSS, Bootstrap4, Css FlexBox, PhotoShop, and Ai.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year for a Iota Asia company located in the Phnom Penh. My skill working on developing Web UI using <b>Vaadin Framework</b> with <b>Java.</b>
 
-- <b>Asean City International School:</b><br>
-  <b>Computer Teacher</b> - 2016 - 2017 (6 months)
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I’ve control computer laboratory, maintenance, and setup software and windows for the school.<br/>
-  <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
-  Windows.
+  - Private Project (API and admin panel are confidential of company)
 
 ### 🌐 Languages
 
