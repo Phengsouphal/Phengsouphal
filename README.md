@@ -6,17 +6,22 @@
 
 ### Glad to see you here! &nbsp; !
 
-Hello, My name is <b> Pheng Souphal</b>. I'm 25 years old and I finished in Software Development at Norton University. I am a software engineer, I've 3+ years experiences with Mobile and Web development and achieve more than 5+ various (Web/Mobile) application <b> Lavaral + Firebase, NestJS, Next, React, Python, Java Laravel Framework /MySql, PostgreSQL</b>. I'm a passionate learner who's always willing to learn and work across technologies 💡.
+Hello, My name is <b> Pheng Souphal</b>. I'm 25 years old and I finished in Software Development at Norton University. I am a software engineer, I've 3+ years experiences with Mobile and Web development and achieve more than 5+ various (Web/Mobile) application <b> Lavaral + Firebase, NestJS, Next, React, Python, Java Laravel Framework /MySql, PostgreSQL</b>. <br>
+
+I'm a passionate learner who's always willing to learn and work across technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 ### 🧐 More About Me:
 
-- <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
-  </a> </b> - Phnom Penh<br>
-  <b>Major</b> - Web Application (8 hours/day , 5month)
-
-  - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
-    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
-    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### 🎓 Education
 
@@ -36,6 +41,10 @@ Hello, My name is <b> Pheng Souphal</b>. I'm 25 years old and I finished in Soft
 
   - <b>Android</b>: Android Application Development concept, Material Design Concept, Data
     Storage, Server Communication (RESTful Client), RxJava and RxAndroid, Dagger2, Firebase Cloud messaging service, OneSignal push notification, Real Time client-server with SocketIO, MVP Architecture Design pattern, MVVM Architecture Design pattern, Source control with Git, deploy application to Play Store, Embed social network(Facebook Login, Facebook Account Kit, Email)<br>
+
+- <b><a href="https://www.norton-u.com/" target="_blank" > Triel High School:
+  </a> </b> - Kampong Thom Province<br>
+  <b>Major</b> - General Knowledge - science (2015)
 
 ### 🎯 My Skill
 
