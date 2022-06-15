@@ -14,15 +14,12 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### 🧐 More About Me:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nestjs, Next.js, Graphql, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible.
+- 💻 &nbsp; I love exploring new tech stack.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### 🎓 Education
@@ -116,17 +113,65 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### 👨‍💻 Working Experiences
 
-- <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
-  </a> </b> - Phnom Penh<br>
-  <b>Major</b> - BA in Information Technology (2015-2019)
+- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
+  </a></b> <br>
+  <b>React/ReactNative Developer</b> - August 2020 - July 2021 (1year)
 
-- <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
-  </a> </b> - Phnom Penh<br>
-  <b>Major</b> - Web Application (8 hours/day , 5month)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 1year to build ReactJs and React Native projects on <b>ecommerce and delivery web app and application</b>.
 
-  - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
-    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
-    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
+  - <b>Public Project Reference</b>
+    - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">https://web.bloc.asia </a> - Delivery and Mall (Mobile App - ReactNative)
+    - <a target="_blank" href="https://web.bloc.asia/home">https://web.bloc.asia </a> - Delivery and Mall (web desktop version)
+    - <a target="_blank" href="https://m.bloc.asia/home">https://m.bloc.asia </a> - Delivery, Mall, Ticket (web mobile version open with phone)
+  - <b>Private Project</b> - 6 (Admin-Portal)
+
+- <b> <a target="_blank" href="https://github.com/rimsila/next-dev" target="_blank" > Next Dev Team:
+  </a></b> <br>
+  <b>React Library</b> 2020 - Present (maintenance)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Next Dev Team to build open source tools, starter template project with React library.
+
+  - <b>Public Project Reference</b>
+    - <a target="_blank" href="https://github.com/rimsila/react-ts-monorepo">React Ts Mono-Repo</a>: code sharing between to web to web, Web to React Native (sharing state, component,utils...)
+    - <a target="_blank" href="https://rimsila.github.io/next-dev">Next Dev React Library </a> (core/component/hook/best practice document etc )
+    - <a target="_blank" href="https://github.com/rimsila/next-dev-template">next-dev-template</a>: React Ts boilerplate integrate with next library provide all common template and stater auth, axios with refresh token,form validate, global handling error (auto message , logOut, network error) etc.
+    - <a target="_blank" href="https://github.com/rimsila/react-library-template-starter">Starter React Library with Dumijs</a>: Build own npm library with Rollup and demo with Dumi .
+
+- <b> <a target="_blank" href="https://www.slash.co/" target="_blank" >Slash Foundry:
+  </a></b> <br>
+  <b>React Developer</b> - February 2019 - August 2020 (1 year 7 months)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I've worked almost 1 year and 7 months for a Singapore company located in the Phnom Penh office. My skill working on developing web UI using <b>React</b> <b>/React Native typescript</b>
+
+  - <b>Public Project Reference</b>
+
+    - <a target="_blank" href="https://tripworld.co">https://tripworld.co </a> - booking web app - flight, hotel, restaurant (React TS/ReduxSaga/Antd Design)
+    - <a target="_blank" href="https://techforimpact.asia">https://techforimpact.asia </a> - Asian Development Bank Tech News (React TS/ReduxSaga/Bootstrap4)
+    - [Augmented Tribe App](https://play.google.com/store/apps/details?id=com.asa.augmentedtribe&hl=en) - Learning Platform (small part - ReactNative TS/Mobx/Jest)
+    - <a target="_blank" href="https://www.slash.co">https://www.slash.co </a> - slash web portfolio (Numjunk/Ejs/Bootstrap4)
+    - <a target="_blank" href="http://startupjungle.org">http://startupjungle.org </a> - slash event (Laravel/Bootstrap4)
+    - [Real Estate](http://dev.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate(processing) (React TS/ReduxSaga/Antd Design)
+    - [Real Estate simulator](http://symulator.acropolisasia.com.s3-website-ap-southeast-1.amazonaws.com/) - Real Estate simulator(processing) (React TS/Antd Design/context)
+    - [Covid19](http://covid19-containment-index.com.s3-website-ap-southeast-1.amazonaws.com/) - Covid19 Containment Index (React/Antd Design/Echart/context)
+
+  - <b>Private Project</b> - 5 (Admin-Portal)
+
+<!-- * -----PlanB---->
+
+- <b> <a target="_blank" href="https://planb-cambodia.com" target="_blank"> PlanB Cambodia:
+  </a></b> <br>
+  <b>Web Designer</b> - Jan, 2017 - Jan, 2018 (1 year)
+  &nbsp;I've worked for a year at japanese company located in Phnom Penh. I've designed a layout and developed a beautiful user-friendly website, including optimized page speed following the
+  flow of business and UX/UI.<br/>
+
+  <b>Skills & Tools:</b> HTML5, Javascript, Jquery, CSS3, SCSS, Bootstrap4, Css FlexBox, PhotoShop, and Ai.
+
+- <b>Asean City International School:</b><br>
+  <b>Computer Teacher</b> - 2016 - 2017 (6 months)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greeting students every morning and teaching them about MS office, internet and Email. Moreover, I’ve control computer laboratory, maintenance, and setup software and windows for the school.<br/>
+  <b>Skills & Tools:</b> Microsoft Office, Computer Maintenance , Installing software and Setup
+  Windows.
 
 ### 🌐 Languages
 
@@ -139,7 +184,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/souphal)&nbsp;
 [<img src="https://img.shields.io/badge/Facebook-282C34?logo=Facebook&logoColor=0077B5" alt="Facebook logo" title="Facebook" height="25" />](https://www.facebook.com/pheng.sophal.94)&nbsp;
 [<img src="https://img.shields.io/badge/phengsouphal@gmail.com-282C34?logo=Gmail&logoColor=EA4335" alt="Gmail logo" title="phengsouphal@gmail.com" height="25" />](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&cc=rimsila.itc@gmail&su=From+GitHub&to=phengsouphal@gmail.com&body=Hi,+there.+Found+you+from+GitHub.)&nbsp;
-<img src="https://img.shields.io/badge/+855968066000-282C34?logo=Phone&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/📞 +855968066000-282C34?logo=Phone&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />&nbsp;
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
