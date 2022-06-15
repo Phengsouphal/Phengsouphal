@@ -4,6 +4,10 @@
 
 [🧐 Profile](#) | [🎓 Education](#-education) | [🎯 My Skill](#-my-skill) | [👨‍💻 Working Experiences](#-working-experiences) | [🌐 Language](#-languages) | [🔍 Where to find me](#-contact-me)
 
+### Glad to see you here! &nbsp; !
+
+Hello, My name is <b> Pheng Souphal</b>. I'm 25 years old and I finished in Software Development at Norton University. I am a software engineer, I've 3+ years experiences with Mobile and Web development and achieve more than 5+ various (Web/Mobile) application <b> Lavaral + Firebase, NestJS, Next, React, Python, Java Laravel Framework /MySql, PostgreSQL</b>. I'm a passionate learner who's always willing to learn and work across technologies 💡.
+
 ### 🧐 More About Me:
 
 - <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
@@ -16,17 +20,22 @@
 
 ### 🎓 Education
 
-- <b><a href="https://uc.edu.kh/" target="_blank" > The University Of Cambodia:
+- <b><a href="https://www.norton-u.com/" target="_blank" > Norton University (NU):
   </a> </b> - Phnom Penh<br>
-  <b>Major</b> - BA in Information Technology (2015-2019)
+  <b>Major</b> - BA in Software Development (2015-2019)
 
 - <b><a href="https://www.kshrd.com.kh/" target="_blank" > Korean Software HRD Center:
   </a> </b> - Phnom Penh<br>
-  <b>Major</b> - Web Application (8 hours/day , 5month)
+  <b>Basic Course</b> - Web Application (April, 2nd – August, 31th 2018, Mon-Fri, 8 hours per day, 824 hours)
 
   - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
     <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
-    <b> SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
+    <b>SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
+
+  <b>Advance Course</b> - Web Application (November, 1st, 2018 – February, 28th 2019, Mon-Fri, 8 hours per day, 632 hours)
+
+  - <b>Android</b>: Android Application Development concept, Material Design Concept, Data
+    Storage, Server Communication (RESTful Client), RxJava and RxAndroid, Dagger2, Firebase Cloud messaging service, OneSignal push notification, Real Time client-server with SocketIO, MVP Architecture Design pattern, MVVM Architecture Design pattern, Source control with Git, deploy application to Play Store, Embed social network(Facebook Login, Facebook Account Kit, Email)<br>
 
 ### 🎯 My Skill
 
@@ -119,7 +128,7 @@
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/souphal)&nbsp;
 [<img src="https://img.shields.io/badge/Facebook-282C34?logo=Facebook&logoColor=0077B5" alt="Facebook logo" title="Facebook" height="25" />](https://www.facebook.com/pheng.sophal.94)&nbsp;
 [<img src="https://img.shields.io/badge/phengsouphal@gmail.com-282C34?logo=Gmail&logoColor=EA4335" alt="Gmail logo" title="phengsouphal@gmail.com" height="25" />](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&cc=rimsila.itc@gmail&su=From+GitHub&to=phengsouphal@gmail.com&body=Hi,+there.+Found+you+from+GitHub.)&nbsp;
-<img src="https://img.shields.io/badge/phone-282C34?logo=Phone&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/+855968066000-282C34?logo=Phone&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />&nbsp;
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
