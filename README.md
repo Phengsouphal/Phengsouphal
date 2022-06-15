@@ -1,6 +1,8 @@
-<h2> Hello, I'm Pheng Souphal / ផេង សូផល ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40"></h2>
+<a target="_blank" href="https://github.com/rimsila"><img width="120" align="right" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/PHENG_SOUPHAL.JPG"></a>
 
-<img align='right' src="https://github.com/Phengsouphal/Phengsouphal/blob/master/PHENG_SOUPHAL.JPG" width="100">
+<!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
+
+## Hello, I'm Pheng Souphal / ផេង សូផល ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40">
 
 [🧐 Profile](#) | [🎓 Education](#-education) | [🎯 My Skill](#-my-skill) | [👨‍💻 Working Experiences](#-working-experiences) | [🌐 Language](#-languages) | [🔍 Where to find me](#-contact-me)
 
@@ -34,8 +36,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
   <b>Basic Course</b> - Web Application (April, 2nd – August, 31th 2018, Mon-Fri, 8 hours per day, 824 hours)
 
   - <b>JAVA</b>: J2SE (Basic Java and OOP concepts), J2EE (Servlet and MVC pattern)<br>
-    <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
-    <b>SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
+  - <b>WEB</b>: HTML5, CSS3, JavaScript, Bootstrap 4, CSS FlexBox, jQuery, AJAX, JSON<br>
+  - <b>SPRING</b>: Spring Boot,Spring Security, ThymeLeaf Template Engine
 
   <b>Advance Course</b> - Web Application (November, 1st, 2018 – February, 28th 2019, Mon-Fri, 8 hours per day, 632 hours)
 
