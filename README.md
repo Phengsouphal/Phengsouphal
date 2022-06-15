@@ -15,12 +15,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 ### 🧐 More About Me:
 
 - 🛠 &nbsp; I’m currently working with Nestjs, Next.js, Graphql, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
-- 💻 &nbsp; I love exploring new tech stack.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🌱 &nbsp; I’m currently learning (Flutter, Vue etc).
+- 🚀 &nbsp; I love exploring new tech stack.
+- ☕ &nbsp; I’m coffeer and gamer.
 
 ### 🎓 Education
 
@@ -40,6 +37,12 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
   - <b>Android</b>: Android Application Development concept, Material Design Concept, Data
     Storage, Server Communication (RESTful Client), RxJava and RxAndroid, Dagger2, Firebase Cloud messaging service, OneSignal push notification, Real Time client-server with SocketIO, MVP Architecture Design pattern, MVVM Architecture Design pattern, Source control with Git, deploy application to Play Store, Embed social network(Facebook Login, Facebook Account Kit, Email)<br>
+
+- <b><a href="https://www.kshrd.com.kh/" target="_blank" > Other Training:
+  </a> </b> - Phnom Penh<br>
+
+  - <b>Ant Traning Center</b>: Finished C# and C# Database short course (6 months)<br>
+  - <b>Youth School (EYCs)</b>: Finished Photoshop short course (3 months)<br>
 
 - <b><a href="https://www.norton-u.com/" target="_blank" > Triel High School:
   </a> </b> - Kampong Thom Province<br>
@@ -113,11 +116,13 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### 👨‍💻 Working Experiences
 
-- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > Bloc Delivery:
+- <b> <a target="_blank" href="https://bloc.asia/" target="_blank" > VTech CO.,LTD:
   </a></b> <br>
-  <b>React/ReactNative Developer</b> - August 2020 - July 2021 (1year)
+  <b>Software Engineer </b> - September 2021 - Present
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm working for Bloc Delivery almost 1year to build ReactJs and React Native projects on <b>ecommerce and delivery web app and application</b>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm currently working for VTehc to build <b> ReactJs, NextJs and NestJS projects on Various projects and admin Pane.</b>
+
+  - Private Project (API and admin panel are confidential of company)
 
   - <b>Public Project Reference</b>
     - <a target="_blank" href="https://play.google.com/store/apps/details?id=com.bongtk.bloc">https://web.bloc.asia </a> - Delivery and Mall (Mobile App - ReactNative)
