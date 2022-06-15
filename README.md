@@ -119,7 +119,7 @@
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/souphal)&nbsp;
 [<img src="https://img.shields.io/badge/Facebook-282C34?logo=Facebook&logoColor=0077B5" alt="Facebook logo" title="Facebook" height="25" />](https://www.facebook.com/pheng.sophal.94)&nbsp;
 [<img src="https://img.shields.io/badge/phengsouphal@gmail.com-282C34?logo=Gmail&logoColor=EA4335" alt="Gmail logo" title="phengsouphal@gmail.com" height="25" />](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&cc=rimsila.itc@gmail&su=From+GitHub&to=phengsouphal@gmail.com&body=Hi,+there.+Found+you+from+GitHub.)&nbsp;
-[<img src="https://img.shields.io/badge/+855968066000-282C34?logo=Telegram&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />]Phone&nbsp;
+[<img src="https://img.shields.io/badge/phone-282C34?logo=Telegram&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />]&nbsp;
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
