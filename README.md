@@ -2,11 +2,11 @@
 
 <!-- <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right" src="https://raw.githubusercontent.com/rimsila/rimsila/main/assets/dev.gif"></a> -->
 
-## Hello, I'm Pheng Souphal / ផេង សូផល ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40">
+## Hello, I'm Pheng Souphal ~ ផេង សូផល៚ ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40">
 
 [🧐 Profile](#) | [🎓 Education](#-education) | [🎯 My Skill](#-my-skill) | [👨‍💻 Working Experiences](#-working-experiences) | [🌐 Language](#-languages) | [🔍 Where to find me](#-contact-me)
 
-### Glad to see you here! &nbsp; !
+### Glad to see you here!
 
 Hello, My name is <b> Pheng Souphal</b>. I'm 25 years old and I finished in Software Development at Norton University. I am a software engineer, I've 3+ years experiences with Mobile and Web development and achieve more than 5+ various (Web/Mobile) application <b> Lavaral + Firebase, NestJS, Next, React, Python, Java Laravel Framework /MySql, PostgreSQL</b>. <br>
 
