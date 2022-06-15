@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github.com/Phengsouphal/Phengsouphal/blob/master/PHENG_SOUPHAL.JPG" width="100">
 
-[🧐 Profile](#) | [🎓 Education](#-education) | [🎯 My Skill](#-my-skill) | [👨‍💻 Working Experiences](#-working-experiences) | [🌐 Language](#-languages) | [📞 Contact me](#-contact-me)
+[🧐 Profile](#) | [🎓 Education](#-education) | [🎯 My Skill](#-my-skill) | [👨‍💻 Working Experiences](#-working-experiences) | [🌐 Language](#-languages) | [🔍 Where to find me](#-contact-me)
 
 ### 🧐 More About Me:
 
@@ -113,17 +113,11 @@
 - <b>Khmer: Native Languager</b>
 - <b>English: Efficiency</b>
 
-### 📞 Contact Me
+### 🔍 Where to find me
 
-<a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/linkedin.png" />
-</a>
-<a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/telegram.png" />
-</a>
-<a href="https://www.linkedin.com/in/souphal-pheng-233449225">
-  <img  alt="souphal-pheng's LinkedIN" width="22px" src="https://github.com/Phengsouphal/Phengsouphal/blob/master/facebook.png" />
-</a>
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
