@@ -116,8 +116,8 @@
 ### 🔍 Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/souphal-pheng-233449225)&nbsp;
-[<img src="https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/souphal)&nbsp;
-[<img src="https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=0077B5" alt="Facebook logo" title="Facebook" height="25" />](https://www.facebook.com/pheng.sophal.94)&nbsp;
+[<img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/souphal)&nbsp;
+[<img src="https://img.shields.io/badge/Facebook-282C34?logo=Facebook&logoColor=0077B5" alt="Facebook logo" title="Facebook" height="25" />](https://www.facebook.com/pheng.sophal.94)&nbsp;
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
