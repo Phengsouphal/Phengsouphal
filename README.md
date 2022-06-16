@@ -124,9 +124,20 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
   - Private Project (API and admin panel are confidential of company)
 
+- <b> <a target="_blank" href="https://bi-kay.com/" target="_blank" > Freelance:
+  </a></b> <br>
+  <b>Mobile and Web developer</b> - October 2021 - May 2022<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've worked on a various freelance project. I've develop a mobile app, a web application and scrape data project.
+
+  - <b>Public Project Reference</b>
+
+    - <b><a target="_blank" href="https://oakas.app/">Oakas App</a></b> - This project is about posting job for disable people to find their job. (Backend and API)
+    - <b><a target="_blank" href="https://play.google.com/store/apps/details?id=com.gogo.expresspartner">GOGO Express Partner </a></b> This project for partner of GOGO Express company. They can upload their product and GOGO express Driver can go and pick up their project and delivery to customer. (ReactNative)
+    - <b>Scrape Data Project </b> - Scrape Data from a website and insert to database and send mail to email. (Python + PHP + Trello API)
+
 - <b> <a target="_blank" href="https://bi-kay.com/" target="_blank" > Bikay Company:
   </a></b> <br>
-  <b>Mobile and Web developer</b> - December 2019 - October 2012<br>
+  <b>Mobile and Web developer</b> - December 2019 - October 2021<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I've worked for a year at Bikay company located in Phnom Penh. I've develop 2 mobile app, and 2 web application include backend.
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skills & Tools: HTML5, Javascript, Jquery, CSS3, Bootstrap4, Laravel, React, Firebase.</b>
